@@ -1020,7 +1020,7 @@ ul, ol {
     font-family: var(--font-heading);
     font-size: 32px;
     font-weight: 700;
-    color: var(--color-primary);
+    color: var(--color-surface);
     line-height: 1.2;
     margin-bottom: 4px;
 }

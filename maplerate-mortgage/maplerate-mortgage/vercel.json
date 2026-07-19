@@ -1,0 +1,9 @@
+{
+  "outputDirectory": "dist/client",
+  "rewrites": [
+    {
+      "source": "/((?!api/|_serverFn/|assets/|.*\\..*).*)",
+      "destination": "/_shell.html"
+    }
+  ]
+}

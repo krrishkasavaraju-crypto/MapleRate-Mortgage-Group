@@ -323,7 +323,7 @@ ul, ol {
     align-items: center;
     justify-content: space-between;
     height: 100%;
-    background-color: var(--color-primary);
+    background-color: var(--color-bg);
 }
 
 .logo {
